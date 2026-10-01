@@ -1,0 +1,7 @@
+Étape 3 : Explication des attributs
+1. Dans un fichier texte ou directement dans le code, expliquez les attributs 
+suivants :
+- method : spécifie comment sont envoyer les données d'un formulaire (get ou post)
+- action : spécifie où envoyer les données du formulaire
+- required : spécifie que l'élément doit etre rempli avant d'être soumis
+- name : spécifie un nom pour un élément HTML
